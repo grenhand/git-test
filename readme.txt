@@ -1,2 +1,2 @@
-git is a system
+git
 git is free software
